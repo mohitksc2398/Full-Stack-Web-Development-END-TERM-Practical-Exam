@@ -13,4 +13,7 @@ Your directory should have following format - ClassRollNo_UniversityRoll_No_Firs
 
 Questions:
 
-1.
+1.Write a program to create employee table and read employee information like emp_no, emp_name, deptt and mob_no from employee table and display all this information on the output screen.
+
+
+2. Write a program to Set the background color red of the <p> element also Blink the text using jQuery.
